@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>😂 Gowtham raja's personal site</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="image/gr.png" alt="one of the filter"></td>
+      <td>
+        <h1>HELLO WORLD!!!</h1>
+        <p><em>it is a course of <strong><a href="https://www.appbrewery.co/p/the-complete-web-development-course">300 hours</a></strong>.</em></p>
+        <p>im a college going boy , i love coffee and cookies!!!</p>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <h2>BOOKS AND TEACHINGS</h2>
+  <ul>
+    <li><a href="books and teachings.html">harry potter</a></li>
+    <li>Mission Impossible</li>
+    <ol>
+      <li>Tom Crusie</li>
+      <li>Good Night Dubai!!!</li>
+    </ol>
+    <li>sex education</li>
+
+  </ul>
+  <ul>
+    <li>good morning</li>
+    <li>good night
+      <ul>
+        <li>10 pm</li>
+        <li>11 pm</li>
+        <li>12 pm</li>
+      </ul>
+    </li>
+  </ul>
+  <h3>Education Experience</h3>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Standard</th>
+        <th>Place of learning</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>10th</td>
+        <td>Sunbeam CBSE School</td>
+      </tr>
+      <tr>
+        <td>11th</td>
+        <td>Sunbeam MATRIC School</td>
+      </tr>
+      <tr>
+        <td>12th</td>
+        <td>Sunbeam MATRIC School</td>
+      </tr>
+      <tr>
+        <td>Bachelor Of Engineering</td>
+        <td>Kingston Engineering college</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td>Learning WebDevelopment</td>
+        <td>Udemy</td>
+      </tr>
+    </tfoot>
+    <hr>
+  </table>
+  <h2>Skills</h2>
+  <table cellspacing="10">
+    <tr>
+      <td>Java</td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td>C</td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>C++</td>
+      <td>⭐⭐⭐⭐</td>
+      <td>Gaming</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+  </table>
+  <hr>
+  <a href="Contact Me.html">
+    <h3>Contact Me</h3>
+  </a>
+
+</body>
+
+</html>
